@@ -1,6 +1,6 @@
 # Presentation Deck Generator
 
-## By HK Olympic Team
+By HK Olympic Team
 
 GenAI Hackathon 2023 
 
@@ -8,7 +8,7 @@ https://capgemini.genai.onova.io/
 
 ## Screenshots
 
-![](./screenshots/1.png)
+![](./screenshots/1.png | width=720)
 
 ![](./screenshots/2.png)
 
