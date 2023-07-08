@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  marp-cli:
+    image: marpteam/marp-cli:v3.0.2
+    command: --allow-local-files --theme theme.css output.md --pdf 
+    privileged: true
+    volumes:
+        - ./marp-cli:/home/marp/app/
+    environment:
+        - LANG=$LANG
+    
