@@ -8,7 +8,7 @@ https://capgemini.genai.onova.io/
 
 ## Screenshots
 
-![](./screenshots/1.png | width=720)
+![](./screenshots/1.png)
 
 ![](./screenshots/2.png)
 
